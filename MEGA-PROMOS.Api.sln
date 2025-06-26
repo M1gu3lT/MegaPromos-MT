@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36109.1 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MEGA-PROMOS.Api", "MEGA-PROMOS.Api\MEGA-PROMOS.Api.csproj", "{88D99933-D8F2-44A6-B265-1F98CEA5C51C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{88D99933-D8F2-44A6-B265-1F98CEA5C51C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88D99933-D8F2-44A6-B265-1F98CEA5C51C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88D99933-D8F2-44A6-B265-1F98CEA5C51C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88D99933-D8F2-44A6-B265-1F98CEA5C51C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EDB9DC30-6AD1-4AA7-AD93-B3CB802D5B1A}
+	EndGlobalSection
+EndGlobal
